@@ -1,6 +1,6 @@
 # 薄肌训练计划：17周居家徒手执行版
 
-> 适用：33岁男性，175厘米、约76公斤，训练断断续续，腹部脂肪较明显，无已知伤病。  
+> 适用：居家徒手入门训练。公开文档仅保存动作与训练方法。  
 > 目标：春节前减小腰围，建立胸肩、背部、臀腿和核心基础。  
 > 原则：每周3次，先动作稳定，再增加次数和难度。
 
@@ -68,6 +68,25 @@
 
 ## 5. 动作说明与教学
 
+### A组教学速查
+
+以下保留臀桥和死虫，髋关节折叠仅作为热身，不替换臀桥。视频链接直接进入YouTube播放页；深蹲链接是动态示范页。英文视频可以先观察动作。
+
+| 动作 | 新手记法 | 直接教学链接 |
+|---|---|---|
+| 徒手深蹲 | 像坐椅子一样向后下方坐，再站起来 | [MuscleWiki动态示范](https://musclewiki.com/zh-cn/exercise/bodyweight-squat) |
+| 斜板俯卧撑 | 手撑牢固高台，身体保持直线，胸口靠近再推回 | [NASM斜板版](https://www.youtube.com/watch?v=0JUrOH--Kdk) · [Hinge Health墙壁入门版](https://www.youtube.com/watch?v=wIPJvBQs7RA) |
+| 后撤箭步蹲 | 后退一步，两膝弯曲，再由前脚推地站回 | [Hinge Health直接视频](https://www.youtube.com/watch?v=6rKA_et3dGk) |
+| 臀桥 | 仰卧屈膝，脚掌推地抬臀，不用腰向上顶 | [Hinge Health直接视频](https://www.youtube.com/watch?v=PhTDzR0TpZs) |
+| 毛巾俯身划船 | 屁股往后、上身前倾，手肘向身后拉 | [原计划视频，内容尚未核实](https://www.youtube.com/watch?v=Ee3zIs2Rb9c) |
+| 死虫 | 仰卧伸出相反的手和腿，腰背保持稳定 | [Hinge Health直接视频](https://www.youtube.com/watch?v=GbSC02oU3To) |
+
+第一次学习可先轻松原地走、活动肩膀，再试深蹲5次、墙壁俯卧撑5次、后撤箭步蹲每侧3次、臀桥5次、毛巾划船5次、死虫每侧3次。动作间随时休息，这是动作熟悉量，不等同于完成正式训练。
+
+臀桥和死虫均需要仰卧，选择防滑、有足够空间的地面和垫子。没有合适场地时不勉强做。出现关节刺痛或头晕时停止。
+
+热身补充：[Hinge Health髋关节折叠直接视频](https://www.youtube.com/watch?v=2W_gXhut5S8)。这是站姿动作学习，徒手阻力较小，不视为与臀桥等效。
+
 ### 徒手深蹲
 
 1. 双脚约与肩同宽，脚尖自然向外；
@@ -99,7 +118,9 @@
 教学：
 
 - [中文：4种俯卧撑新手进阶](https://www.bilibili.com/video/BV19Y4y1J7a4/)
-- [物理治疗师审校：墙壁俯卧撑视频与进阶](https://www.hingehealth.com/resources/articles/wall-push-ups/)
+- [NASM斜板俯卧撑直接视频](https://www.youtube.com/watch?v=0JUrOH--Kdk)
+- [Hinge Health墙壁俯卧撑直接视频](https://www.youtube.com/watch?v=wIPJvBQs7RA)
+- [墙壁俯卧撑文字说明与进阶](https://www.hingehealth.com/resources/articles/wall-push-ups/)
 
 ### 后撤箭步蹲
 
@@ -111,7 +132,7 @@
 
 常见错误：步幅太窄、前膝内扣、上身前扑、过度依赖后脚蹬地。
 
-教学：[后撤箭步蹲视频与难度调整](https://www.hingehealth.com/resources/articles/reverse-lunges/)
+教学：[后撤箭步蹲直接视频](https://www.youtube.com/watch?v=6rKA_et3dGk)；[文字说明与难度调整](https://www.hingehealth.com/resources/articles/reverse-lunges/)
 
 ### 分腿蹲
 
@@ -129,7 +150,7 @@
 
 如果大腿后侧抽筋，把脚稍靠近臀部；如果腰部发力明显，减少抬起高度。单腿版应保持骨盆稳定，若左右晃动就先退回普通版。
 
-教学：[臀桥视频与单腿进阶](https://www.hingehealth.com/resources/articles/bridge-exercise/)
+教学：[普通臀桥直接视频](https://www.youtube.com/watch?v=PhTDzR0TpZs)；[文字说明与单腿进阶](https://www.hingehealth.com/resources/articles/bridge-exercise/)
 
 ### 毛巾俯身划船
 
@@ -141,9 +162,9 @@
 4. 保持毛巾横向张力，屈肘把毛巾拉向下胸；
 5. 肩胛向后下方靠拢，停1秒再缓慢伸臂。
 
-该动作阻力有限。第5–6周后若愿意增加一条弹力带，背部训练会更有效，但基础版不强制购买。
+毛巾向两侧拉紧并不能提供充分的划船方向阻力，主要用于熟悉姿势；不把毛巾随意固定在门把手或不牢固的家具上。该动作阻力有限。第5–6周后若愿意增加一条弹力带，背部训练会更有效，但基础版不强制购买。
 
-教学：[毛巾俯身划船视频](https://www.youtube.com/watch?v=Ee3zIs2Rb9c)
+教学：[原计划毛巾俯身划船视频（内容尚未核实）](https://www.youtube.com/watch?v=Ee3zIs2Rb9c)
 
 ### 俯卧反向雪天使
 
